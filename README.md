@@ -1,4 +1,4 @@
-# Organisation-Asset-Trading-Platform
+# Asset-Trading-Platform
 
 Demo video: https://www.youtube.com/watch?v=mD1ebHTcdvA
 
