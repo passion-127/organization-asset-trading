@@ -2,6 +2,9 @@
 
 Demo video: https://www.youtube.com/watch?v=mD1ebHTcdvA
 
+![asset-trading](https://user-images.githubusercontent.com/47819009/128789851-2fc53571-48a9-472a-8e0e-f744fe92c798.PNG)
+
+
 ### Database Info
 
 - Install MariaDB from [this location](https://mariadb.org/download/).
