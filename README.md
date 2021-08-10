@@ -1,5 +1,7 @@
 # Electronic-Asset-Trading-Platform
 
+Demo video: https://www.youtube.com/watch?v=mD1ebHTcdvA
+
 ### Database Info
 
 - Install MariaDB from [this location](https://mariadb.org/download/).
